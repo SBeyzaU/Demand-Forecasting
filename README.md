@@ -6,7 +6,7 @@
 
 
 # Project Description
-This project is meant to use timeseries models to forecast demand for HIV treatment (ARV) and HIV rapid diagnostic test (HRDT). I used a one shift ARIMA model as a baseline to compare the performance of the final SARIMA model. As the original dataset was supply chain shipment pricing, I have faced some challenges with model performance. I believe the models would have performed better with more data. I have done two separate models for each item. 
+This project aims to forecast the demand for HIV treatment (ARV) and HIV rapid diagnostic test (HRDT) using time series models. Initially, a one-shift ARIMA model was utilized as a baseline for comparing the performance of the final SARIMA model. However, since the original dataset was supply chain shipment pricing, the project faced some challenges in achieving optimal model performance. The limited amount of data might have hindered the models' ability to perform better. To address this issue, separate models were developed for each item. Overall, the project's goal is to improve the accuracy of demand forecasting for HIV treatment and HIV rapid diagnostic tests, which can help ensure the regular availability of these critical resources.
 
 
 
