@@ -1,4 +1,4 @@
-# Demand-Forecasting
+# HIV Treatment Time Series Forecast
 ### Author: Beyza Ulasti
 
 
@@ -12,7 +12,7 @@ This project aims to forecast the demand for HIV treatment (ARV) and HIV rapid d
 
 
 #### Summary of Repository Contents:
-* Supply Chain Shipment Data sourced from USAID
+* Supply Chain Shipment Pricing Data sourced from [USAID](https://catalog.data.gov/dataset/supply-chain-shipment-pricing-data-07d29)
 * The [final presentation](presentation.pdf) in PDF format
 * The [final notebook](Final-Notebook.ipynb) containing detailed analysis and accompanying code
 
@@ -21,6 +21,7 @@ This project aims to forecast the demand for HIV treatment (ARV) and HIV rapid d
 Over a ten-year study, The University of New South Wales discovered that a modest 27% increase in HIV treatment access resulted in a significant 66% decrease in HIV infections. With a staggering 38.4 million people around the world HIV-positive in 2021, two-thirds of whom reside in Africa, regular HIV treatment is crucial as the disease remains incurable. By reducing the amount of HIV in the bloodstream, treatment helps prevent transmission to others and reduces the risk of drug resistance. Effective demand forecasting could be the key to alleviating the HIV crisis in many countries, especially by automating the process and eliminating the need for human resources. Predicting future needs would help prevent medication shortages, ensuring that essential drugs are accessible to those who require them.
 
 This project aims to meet the needs of USAID, which is already contributing to relief efforts, although it is important to note that this is a hypothetical stakeholder for academic purposes, and this project is not affiliated with USAID.
+
 
 
 #### Limitations of Data
