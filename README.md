@@ -13,8 +13,8 @@ This project aims to forecast the demand for HIV treatment (ARV) and HIV rapid d
 
 #### Summary of Repository Contents:
 * Supply Chain Shipment Data sourced from USAID
-* The [final presentation](Presentation.pdf) in PDF format
-* The [final notebook](FinalNotebook.ipynb) containing detailed analysis and accompanying code
+* The [final presentation](Demand-Forecasting/presentation.pdf) in PDF format
+* The [final notebook](Final-Notebook.ipynb) containing detailed analysis and accompanying code
 
 
 ## Business Problem
